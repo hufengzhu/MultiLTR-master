@@ -12,6 +12,7 @@ which takes advantage of six machine learning algorithms and three types of feat
 
 ## Usage
 load_stage.py: Used to distinguish LTR-RTs and non-LTR-RTs, superfamilies and lineages.
+
 result_metric.py: Evaluate the prediction results of MultiLTR.
 
 O.sativa_Inpactor2_library.fasta: O.sativa genome TEs annotations were obtained by combining Inpactor2 with Repeat Mask.
